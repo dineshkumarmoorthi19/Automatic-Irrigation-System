@@ -1,1 +1,3 @@
-# Automatic-Irrigation-System
+An automatic irrigation system based on soil moisture is a technology-driven solution designed to optimize water usage in agriculture and gardening. It utilizes soil moisture sensors to continuously monitor the moisture level in the soil. When the soil moisture falls below a predetermined threshold, the system activates a water pump to provide irrigation, ensuring that plants receive water precisely when needed. This approach conserves water, prevents overwatering, and promotes healthier plant growth. Additionally, it reduces manual labor and enhances the efficiency of agricultural and gardening operations. Overall, a soil moisture-based automatic irrigation system improves resource management, plant health, and yields while minimizing water wastage.
+
+I have attached Snapshot of error free compilation of arduino uno code and error Riscduino compilation code.
